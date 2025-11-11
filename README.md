@@ -6,6 +6,9 @@ Proyek ini adalah aplikasi Flutter sederhana untuk mendemonstrasikan alur naviga
 
 Berikut adalah tampilan dari kedua halaman utama aplikasi:
 
+  ![Screenshot Form](form.png)
+  ![Screenshot Tampilan](Tampilan.png)
+
 
 ---
 
